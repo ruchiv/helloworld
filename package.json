@@ -1,0 +1,13 @@
+{
+  "name": "risk-assessment",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Risk Assessment based on different frameworks",
+  "dependencies": {
+    "restify": "^2.8.5"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "request": "^2.53.0"
+  }
+}

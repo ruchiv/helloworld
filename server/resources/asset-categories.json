@@ -1,0 +1,87 @@
+{
+  "Hardware - Data Medium (Passive)":{
+    "Confidentiality Impact":0.25,
+    "Integrity Impact"::0.25,
+    "Availability Impact":0.25,
+    "Compliance Impact":0.25
+  },
+  "Location - Utilities":{
+    "Confidentiality Impact":0.25,
+    "Integrity Impact"::0.25,
+    "Availability Impact":0.25,
+    "Compliance Impact":0.25
+  },
+  "-----":{
+    "Confidentiality Impact":0.25,
+    "Integrity Impact"::0.25,
+    "Availability Impact":0.25,
+    "Compliance Impact":0.25
+  },
+  "-----":{
+    "Confidentiality Impact":0.25,
+    "Integrity Impact"::0.25,
+    "Availability Impact":0.25,
+    "Compliance Impact":0.25
+  },
+  "-----":{
+    "Confidentiality Impact":0.25,
+    "Integrity Impact"::0.25,
+    "Availability Impact":0.25,
+    "Compliance Impact":0.25
+  },
+  "-----":{
+    "Confidentiality Impact":0.25,
+    "Integrity Impact"::0.25,
+    "Availability Impact":0.25,
+    "Compliance Impact":0.25
+  },
+  "-----":{
+    "Confidentiality Impact":0.25,
+    "Integrity Impact"::0.25,
+    "Availability Impact":0.25,
+    "Compliance Impact":0.25
+  },
+  "-----":{
+    "Confidentiality Impact":0.25,
+    "Integrity Impact"::0.25,
+    "Availability Impact":0.25,
+    "Compliance Impact":0.25
+  },
+  "-----":{
+    "Confidentiality Impact":0.25,
+    "Integrity Impact"::0.25,
+    "Availability Impact":0.25,
+    "Compliance Impact":0.25
+  },
+  "-----":{
+    "Confidentiality Impact":0.25,
+    "Integrity Impact"::0.25,
+    "Availability Impact":0.25,
+    "Compliance Impact":0.25
+  },
+  "-----":{
+    "Confidentiality Impact":0.25,
+    "Integrity Impact"::0.25,
+    "Availability Impact":0.25,
+    "Compliance Impact":0.25
+  },
+  "-----":{
+    "Confidentiality Impact":0.25,
+    "Integrity Impact"::0.25,
+    "Availability Impact":0.25,
+    "Compliance Impact":0.25
+  },
+  "-----":{
+    "Confidentiality Impact":0.25,
+    "Integrity Impact"::0.25,
+    "Availability Impact":0.25,
+    "Compliance Impact":0.25
+  },
+  "-----":{
+    "Confidentiality Impact":0.25,
+    "Integrity Impact"::0.25,
+    "Availability Impact":0.25,
+    "Compliance Impact":0.25
+  }
+
+}
