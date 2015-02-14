@@ -1,11 +1,11 @@
-var Sequilize = require("sequilize");
-var config = require("./sequilize.js");
+var Sequilize = require("sequelize");
+var config = require("./sqlliteconfig");
 var uuid = require('node-uuid');
 var sequilize = config.sequilize;
 
 exports.Customer = sequilize.define("customer", {
   id: {type:Sequilize.UUID, primaryKey : true},
-  name:{type : Sequilize.STRING};
+  name:{type : Sequilize.STRING}
 })
 exports.Framework = sequilize.define("framework", {
   id: {type:Sequilize.UUID, primaryKey : true},
