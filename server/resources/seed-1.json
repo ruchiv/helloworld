@@ -1,0 +1,159 @@
+{
+  "Framework": [
+    {
+      "id": "ISO27002",
+      "name": "ISO27002",
+      "description": ""
+    },
+    {
+      "id": "NIST",
+      "name": "NIST",
+      "description": ""
+    },
+    {
+      "id": "COBIT5",
+      "name": "COBIT5",
+      "description": ""
+    },
+    {
+      "id": "SANS20",
+      "name": "SANS20",
+      "description": ""
+    },
+    {
+      "id": "PCI30",
+      "name": "PCI3.0",
+      "description": ""
+    }
+  ],
+  "AssetCategory":[
+    {
+      "id":"AC1",
+      "category": "Hardware - Data Medium (Passive)"
+    },
+    {
+      "id":"AC2",
+      "category": "Location - Utilities"
+    },
+    {
+      "id":"AC3",
+      "category": "Network - Communication Interface (E.g. GPRS, Ethernet Adaptor)"
+    },
+    {
+      "id":"AC4",
+      "category": "Hardware - Electronic Medium (Floppy Disc, CD/DVD, Back-up, removable hard disc's mempry, key tape etc.)"
+    },
+    {
+      "id":"AC5",
+      "category": "Organization - Authorities"
+    },
+    {
+      "id":"AC6",
+      "category": "Personnel - Decision Maker"
+    },
+    {
+      "id":"AC7",
+      "category": "Hardware - Data Processing Equipment (active)"
+    },
+    {
+      "id":"AC8",
+      "category": "Organization - Structure of the Organization"
+    },
+    {
+      "id":"AC9",
+      "category": "Personnel - Users"
+    },
+    {
+      "id":"AC10",
+      "category": "Hardware - Transportable Equipment (Laptop, PDA, Mobile etc.)"
+    },
+    {
+      "id":"AC11",
+      "category": "Personnel - Operation / Maintenance Staff"
+    },
+    {
+      "id":"AC12",
+      "category": "Hardware - Other media"
+    },
+    {
+      "id":"AC13",
+      "category": "Organization - Subcontractors / Suppliers / Manufacturers"
+    },
+    {
+      "id":"AC14",
+      "category": "Hardware - Fixed Equipment (Server, WorkStations)"
+    },
+    {
+      "id":"AC15",
+      "category": "Personnel - Developers"
+    },
+    {
+      "id":"AC16",
+      "category": "Software - Operating Systems"
+    },
+    {
+      "id":"AC17",
+      "category": "Site (All the places containing scope or part of scope, and the physical means required to operate"
+    },
+    {
+      "id":"AC1",
+      "category": "Hardware - Data Medium (Passive)"
+    },
+    {
+      "id":"AC1",
+      "category": "Hardware - Data Medium (Passive)"
+    },
+    {
+      "id":"AC1",
+      "category": "Hardware - Data Medium (Passive)"
+    },
+    {
+      "id":"AC1",
+      "category": "Hardware - Data Medium (Passive)"
+    },
+    {
+      "id":"AC1",
+      "category": "Hardware - Data Medium (Passive)"
+    },
+    {
+      "id":"AC1",
+      "category": "Hardware - Data Medium (Passive)"
+    },
+    {
+      "id":"AC1",
+      "category": "Hardware - Data Medium (Passive)"
+    },
+    {
+      "id":"AC1",
+      "category": "Hardware - Data Medium (Passive)"
+    },
+    {
+      "id":"AC1",
+      "category": "Hardware - Data Medium (Passive)"
+    },
+    {
+      "id":"AC1",
+      "category": "Hardware - Data Medium (Passive)"
+    },
+    {
+      "id":"AC1",
+      "category": "Hardware - Data Medium (Passive)"
+    },
+    {
+      "id":"AC1",
+      "category": "Hardware - Data Medium (Passive)"
+    },
+    {
+      "id":"AC1",
+      "category": "Hardware - Data Medium (Passive)"
+    },
+    {
+      "id":"AC1",
+      "category": "Hardware - Data Medium (Passive)"
+    },
+    {
+      "id":"AC1",
+      "category": "Hardware - Data Medium (Passive)"
+    }
+  ]
+}

@@ -4,7 +4,10 @@
   "version": "0.0.0",
   "description": "Risk Assessment based on different frameworks",
   "dependencies": {
-    "restify": "^2.8.5"
+    "restify": "^2.8.5",
+    "sequelize": "^2.0.2",
+    "sqlite3": "^3.0.5",
+    "xlsx": "^0.7.12"
   },
   "devDependencies": {
     "expect.js": "^0.3.1",

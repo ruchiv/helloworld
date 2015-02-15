@@ -1,6 +1,5 @@
 var Sequilize = require("sequelize");
 var config = require("./sqlliteconfig");
-var uuid = require('node-uuid');
 var sequilize = config.sequilize;
 
 exports.Customer = sequilize.define("customer", {
@@ -49,3 +48,5 @@ exports.RiskLibrary = sequilize.define("risk_library",{
   ranking:{type : Sequilize.STRING},
   selected:{type : Sequilize.BOOLEAN}
 })
+
+
